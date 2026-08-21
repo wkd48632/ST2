@@ -1,5 +1,5 @@
 # ST2
-SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming
+SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming + GTD-like task queueing system
 
 > Current status: Developing
 
