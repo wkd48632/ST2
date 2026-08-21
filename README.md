@@ -5,7 +5,7 @@ SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming + GTD-like task queue
 
 ## Feature
 - Completely transformable object
-- Uses non-capsulated various programming languages: It's a system
+- Uses non-capsulated various programming languages: It's a system.
 
 ## How to use
 - Run genesis.py
