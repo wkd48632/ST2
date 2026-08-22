@@ -11,6 +11,7 @@ It can change itself totally like the Ship of Theseus.
 ## Communication
 Observation(Quantum mechanics)-like something.  
 Creature can communicates each other.
+If it cannot communicate, those two don't know each other.
 
 ## Distance of Reality(DoR)
 Creature has its own reality.  
