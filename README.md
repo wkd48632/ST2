@@ -19,7 +19,10 @@ SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming + GTD-like task queue
 - Node.js
   - Express.js
 - Browser
+  - canvas
 - Internet(CDN)
+  - three.js
+  - webfont
 - GCC(Mingw)
 
 ## Dictionary
