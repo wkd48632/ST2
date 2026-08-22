@@ -11,6 +11,8 @@ SmallTalk2: SmallTalk + Erlang-like connectivity + Data-Oriented Programming + G
 - Run genesis.py
 
 ## Dependencies
+- Windows
+- Anaconda
 - Python
   - pygame
   - PIL
