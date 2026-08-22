@@ -30,7 +30,7 @@ SmallTalk2: SmallTalk + Erlang-like connectivity + Data-Oriented Programming + G
 - VS Code(runnable with 'code' command on python os.system)
   
 ## Dictionary
-- The Greate One: Universe. Everything whether you know it or not, whether it is decided or not.
+- The Great One: Universe. Everything whether you know it or not, whether it is decided or not.
 - The Limitation of Reality: As is.
 - The Living Pendulum: A complex system composed of similar objects.
 - The Loose Boundary: According to Zipf's Law, the point where the frequency of communication changes significantly from the observer's perspective.
