@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
@@ -16,3 +17,6 @@ def python_to_browser():
 @app.post("/browser_to_python")
 def get_data(data:dict):
     print(data)
+
+if __name__ == '__main__':
+    os.system('uvicorn main:app --reload')
