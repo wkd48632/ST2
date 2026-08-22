@@ -27,6 +27,7 @@ SmallTalk2: SmallTalk + Erlang-like connectivity + Data-Oriented Programming + G
 - Redis
 - OS Filesystem
 - Apache Kafka
+- VS Code(runnable with 'code' command on python os.system)
   
 ## Dictionary
 - The Greate One: Universe. Everything whether you know it or not, whether it is decided or not.
