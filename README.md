@@ -10,6 +10,18 @@ SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming + GTD-like task queue
 ## How to use
 - Run genesis.py
 
+## Dependencies
+- Python
+  - pygame
+  - PIL
+  - requests
+  - flask
+- Node.js
+  - Express.js
+- Browser
+- Internet(CDN)
+- GCC(Mingw)
+
 ## Dictionary
 - The Greate One: Universe. Everything whether you know it or not, whether it is decided or not.
 - The Limitation of Reality: As is.
