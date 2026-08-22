@@ -14,3 +14,7 @@ Creature can communicates each other.
 ## Distance of Reality(DoR)
 Creature has its own reality.  
 Communicate frequently, DoR decreases.
+
+## Scale Hierarchy
+If any value differs by a factor of 2.7, those two are different creature.  
+There is The Loose Boundary.  
