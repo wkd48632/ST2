@@ -16,6 +16,6 @@ Creature has its own reality.
 Communicate frequently, DoR decreases.
 
 ## Scale Hierarchy & Using
-If any value differs by a factor of 2.7, those two are different creature.  
+If any value differs by a factor of 2.7, those are different creature.  
 There is The Loose Boundary.  
 Bigger Creature can use smaller creature as component of itself, That is not a communication.  
