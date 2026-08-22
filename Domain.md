@@ -1,7 +1,7 @@
 # Domain
 What I studied before starting the project
 
-## Python
+## Pygame
 
 ## Bluebook(Smalltalk-80:The Language and its Implementation)
 
