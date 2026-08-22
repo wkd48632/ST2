@@ -11,5 +11,5 @@ It can change it self totally like the Ship of Theseus.
 Creature can communicates each other.
 
 ## Distance of Reality(DoR)
-Creature has its own reality.
+Creature has its own reality.  
 Communicate frequently, DoR decreases.
