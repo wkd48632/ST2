@@ -14,12 +14,7 @@ SmallTalk2: SmallTalk + Erlang-like connectivity + Data-Oriented Programming + G
 - Windows
 - Anaconda
 - Python
-  - pygame
-  - PIL
-  - requests
-  - flask
-- Node.js
-  - Express.js
+  - fastapi
 - Browser
   - canvas
 - Internet(CDN)
