@@ -9,6 +9,7 @@ It can communicates with another creature.
 It can change itself totally like the Ship of Theseus.
 
 ## Communication
+Observation(Quantum mechanics)-like something.  
 Creature can communicates each other.
 
 ## Distance of Reality(DoR)
