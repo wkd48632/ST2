@@ -24,6 +24,8 @@ SmallTalk2: SmallTalk + Erlang + Data-Oriented Programming + GTD-like task queue
   - three.js
   - webfont
 - GCC(Mingw)
+- Redis
+- OS Filesystem
 
 ## Dictionary
 - The Greate One: Universe. Everything whether you know it or not, whether it is decided or not.
