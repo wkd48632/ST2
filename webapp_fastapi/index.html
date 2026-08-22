@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            fetch('/python_to_browser').then(r => r.json()).then(console.log)
+            fetch('/browser_to_python',{
+                method: 'POST',
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ msg: 'Hello from browser' })
+            }).then(console.log)
+        </script>
+    </head>
+    <body>
+        <h1>Test Page</h1>
+    </body>
+</html>
