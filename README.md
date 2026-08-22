@@ -4,7 +4,7 @@ SmallTalk2: SmallTalk + Erlang-like connectivity + Data-Oriented Programming + G
 > Current status: Developing
 
 ## Feature
-- Completely transformable object
+- Totally metamprphosable object
 - Uses non-capsulated various programming languages: It's a system.
 
 ## How to use
