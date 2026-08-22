@@ -1,6 +1,6 @@
 # Zen
 
-The first part introduces the Smalltalk2 approach to information representation and manipulation. Three words--Creature, Communication, Distance of Reality
+The first part introduces the Smalltalk2 approach to information representation and manipulation. Four words--Creature, Communication, Distance of Reality, Using
 
 ## Creature
 Instance-like something.  
@@ -15,6 +15,7 @@ Creature can communicates each other.
 Creature has its own reality.  
 Communicate frequently, DoR decreases.
 
-## Scale Hierarchy
+## Scale Hierarchy & Using
 If any value differs by a factor of 2.7, those two are different creature.  
 There is The Loose Boundary.  
+Bigger Creature can use smaller creature as component of itself, That is not a communication.  
