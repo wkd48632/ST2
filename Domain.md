@@ -3,7 +3,9 @@ What I studied before starting the project
 
 ## Pygame
 - Video spec: numpy X 640p@max60fps  
-- Bitmap english font  
+- Bitmap english font
+  > fontdata.txt  
+  > ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_.,"'?!@ *#$%&()+-/:;<=>[\]^`{|}~   
 - Only click  
 
 ## VS Code
