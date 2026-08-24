@@ -20,5 +20,5 @@ Communicate frequently, DoR decreases.
 ## Scale Hierarchy & Using
 If any value differs by a factor of 3(e,2.7), those are different creature.  
 It is approximately 0.5 on a common logarithmic scale like 1, 3, 10, 30, 100, 300, and so on.  
-There is The Loose Boundary.  
+There is a Loose Boundary.  
 Bigger Creature can use smaller creature as component of itself, That is not a communication.  
