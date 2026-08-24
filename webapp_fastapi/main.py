@@ -1,8 +1,6 @@
 import os
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
-from pydantic import BaseModel
-
 
 app = FastAPI()
 
@@ -12,7 +10,7 @@ def read_root():
 
 @app.get('/python_to_browser')
 def python_to_browser():
-    return 'hello from python!!'
+    return 'hello from python'
 
 @app.post("/browser_to_python")
 def browser_to_python(data:dict):
