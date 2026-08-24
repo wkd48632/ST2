@@ -12,11 +12,8 @@ def read_root():
 
 @app.get('/python_to_browser')
 def python_to_browser():
-    return 'hello from python'
+    return 'hello from python!!'
 
 @app.post("/browser_to_python")
-def get_data(data:dict):
+def browser_to_python(data:dict):
     print(data)
-
-if __name__ == '__main__':
-    os.system('uvicorn main:app --reload')
